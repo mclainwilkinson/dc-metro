@@ -4,9 +4,9 @@
 *****Credit goes to @ScottKekoaShay with updates to the earlier metro code: https://github.com/ScottKekoaShay/dc-metro
 
 ## Updates
-Added bus line tracking for bus stop near my house as well
+Added bus line tracking to get updates about bus stop near my house too
 
-
+## About
 This project contains the source code to create your own Washington DC Metro sign. It was written using CircuitPython targeting the [Adafruit Matrix Portal](https://www.adafruit.com/product/4745) and is optimized for 64x32 RGB LED matrices.
 
 ![Board Showing Train Arriving](img/board.gif)
